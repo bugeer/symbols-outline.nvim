@@ -48,7 +48,7 @@ M.defaults = {
     Field = { icon = '', hl = '@field' },
     Constructor = { icon = '', hl = '@constructor' },
     Enum = { icon = 'ℰ', hl = '@type' },
-    Interface = { icon = 'ﰮ', hl = '@type' },
+    Interface = { icon = '', hl = '@type' },
     Function = { icon = '', hl = '@function' },
     Variable = { icon = '', hl = '@constant' },
     Constant = { icon = '', hl = '@constant' },
